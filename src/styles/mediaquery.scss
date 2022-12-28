@@ -97,8 +97,19 @@
         height: 50vh;
         grid-template-columns: 1fr;
         padding: 5rem;
+        
+        
         > div{
             align-items: center;
+
+            h1{
+                margin: 1rem;
+                width: 50%;
+            }
+            
+
+           
+            
         }
     }
 }
