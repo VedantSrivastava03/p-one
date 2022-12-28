@@ -31,7 +31,7 @@ const Home = () => {
 <div className="home3" id='about'>
     <div>
     <h1>Who we are?</h1>
-    <p>Web development services help create all types of web-based software and ensure great experience for web users. At ScienceSoft, we professionally design, redesign and continuously support customer-facing and enterprise web apps to achieve high conversion and adoption rates.</p>
+    <p>Web development services help create all types of web-based software and ensure great experience for web users. At MagicTouch, we professionally design, redesign and continuously support customer-facing and enterprise web apps to achieve high conversion and adoption rates.</p>
     </div>
 </div>
 <div className="home4" id='brands'>
