@@ -16,10 +16,10 @@ import "./styles/mediaquery.scss";
 
 function App() {
   return (
-      <Router basename='p-one'>
+      <Router>
         <Header/>
         <Routes>
-        <Route exact path='/p-one' element={<Home/>} />
+        <Route exact path='/' element={<Home/>} />
         <Route path='/contact' element={<Contact/>} />
         <Route path='/services' element={<Services/>} />
         </Routes>
